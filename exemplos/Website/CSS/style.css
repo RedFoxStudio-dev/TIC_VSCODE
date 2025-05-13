@@ -1,0 +1,31 @@
+a {
+    background-color: white;
+    color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a:hover {
+    background-color: aquamarine;
+    color: black;
+}
+
+a:active {
+    background-color: black;
+    color: yellow;
+
+}
+
+ul {
+    list-style-type: none;
+}
+
+p{
+    background-color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
